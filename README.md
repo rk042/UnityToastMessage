@@ -1,2 +1,2 @@
 # UnityToastMessage
-- this package use for generate toast message or flash message in your game.
+- This helps you to display the toast/flash message pop in your game..
